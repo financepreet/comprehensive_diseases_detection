@@ -1,1 +1,1 @@
-# parkinsion_diseases_detection
+# comprehenshive_diseases_detection
